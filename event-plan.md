@@ -32,7 +32,7 @@ gantt
     The Beverly Killbillies :, 5pm, 4hours
     
     section Sunday
-    Artemis Bridge Simulator Training :, 11am, 1hour
+    Artemis Bridge Simulator Training :, 11am, 1hours
     Artemis Bridge Simulator USS Gen Con:, 1pm, 2hours 
 ```
 
