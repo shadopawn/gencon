@@ -23,7 +23,7 @@ gantt
     
     section Thursday
     Return to the Grave :, 8am, 5hours
-    Linnorm's Legacy :, 5pm, 5hours
+    Linnorm's Legacy :, 2pm, 5hours
     
     section Friday
     Battletech Grinder :, 2pm, 2hours
