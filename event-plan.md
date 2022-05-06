@@ -8,6 +8,7 @@
 ## Planned Events
 - [Battletech Grinder](https://www.gencon.com/event_finder?search=%22Battletech+Grinder%22&c=indy2022)
     - Time to be determined
+    - Possibly at Friday 2pm, 2hours
 - [PFS(2ED) #4-02: RETURN TO THE GRAVE](https://www.gencon.com/events/206964)
     - Thursday 8am 5 hours
 - [PFS(2ED) #4-03: LINNORM'S LEGACY](https://www.gencon.com/events/206980)
