@@ -53,4 +53,3 @@
     - [Warhammer 40k - KILL IT, KEEP IT (AMBULL Chaos Possessed) Up to 3 Winners](https://www.gencon.com/events/285437)
         - Sunday, 1:00 PM - 3:00 pm 
         - ICC: Hall B : No Rails Adventure Team: HQ
-
