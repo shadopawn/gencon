@@ -39,6 +39,7 @@
     - [Thar be Cats in Ulthar! A Dreamlands Adventure](https://www.gencon.com/events/287128)
         - Thursday, 5:00 PM - 9:00 PM 
         - [Omni: Illinois Ballroom: 1](https://www.gencon.com/map?c=26&f=2&lg=-60.42480468750001&lt=12.357173281576667&s=1290&z=5)
+        - Alt: [The Engaging Case of Arden Blackwood](https://www.gencon.com/events/274717)
 - Friday
     - [Prisoner 13](https://www.gencon.com/events/277556)
         - Friday, 12:00 PM - 6:00 PM
