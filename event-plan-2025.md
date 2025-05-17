@@ -51,6 +51,9 @@
         - [Stadium : Exhibit Hall 1--2 : HQ](https://www.gencon.com/map?c=26&f=0&lg=27.949218750000004&lt=70.34831755984781&s=12386&z=4)
     - [Napoleon in Bavaria, 1809](https://www.gencon.com/events/272580)
         - Saturday, 2:00 PM - 6:00 PM
+        - Alt: [Oversized Quartermaster General: East Front](https://www.gencon.com/events/292086)
+        - Alt: [Sails of Glory Special Mod](https://www.gencon.com/events/291698)
+        - Alt: [Shoshin: The Path of Ascension](https://www.gencon.com/events/293863)
 - Sunday
     - [Warhammer 40k - KILL IT, KEEP IT (AMBULL Chaos Possessed) Up to 3 Winners](https://www.gencon.com/events/285437)
         - Sunday, 1:00 PM - 3:00 pm 
