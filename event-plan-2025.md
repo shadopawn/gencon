@@ -35,6 +35,7 @@
     - [The Beverly Killbillies](https://www.gencon.com/events/274773)
         - Thursday, 12:00 PM - 4:00 PM
         - [Stadium: Meeting Room 5--6: HQ](https://www.gencon.com/map?c=26&f=0&lg=5.361328125&lt=74.23587806874866&s=1262&z=5)
+        - Alt: [The Wizarding World of Harry Potter - 5 Years After Voldemort](https://www.gencon.com/events/283697)
     - [Thar be Cats in Ulthar! A Dreamlands Adventure](https://www.gencon.com/events/287128)
         - Thursday, 5:00 PM - 9:00 PM 
         - [Omni: Illinois Ballroom: 1](https://www.gencon.com/map?c=26&f=2&lg=-60.42480468750001&lt=12.357173281576667&s=1290&z=5)
