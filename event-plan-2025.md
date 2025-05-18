@@ -32,28 +32,23 @@
 
 ## Schedule
 - Thursday
-    - [The Beverly Killbillies](https://www.gencon.com/events/274773)
+    - [The Wizarding World of Harry Potter - 5 Years After Voldemort](https://www.gencon.com/events/283697)
         - Thursday, 12:00 PM - 4:00 PM
-        - [Stadium: Meeting Room 5--6: HQ](https://www.gencon.com/map?c=26&f=0&lg=5.361328125&lt=74.23587806874866&s=1262&z=5)
-        - Alt: [The Wizarding World of Harry Potter - 5 Years After Voldemort](https://www.gencon.com/events/283697)
+        - ICC : Hall B : No Rails Adventure Team : HQ
     - [Thar be Cats in Ulthar! A Dreamlands Adventure](https://www.gencon.com/events/287128)
         - Thursday, 5:00 PM - 9:00 PM 
         - [Omni: Illinois Ballroom: 1](https://www.gencon.com/map?c=26&f=2&lg=-60.42480468750001&lt=12.357173281576667&s=1290&z=5)
-        - Alt: [The Engaging Case of Arden Blackwood](https://www.gencon.com/events/274717)
 - Friday
     - [Prisoner 13](https://www.gencon.com/events/277556)
         - Friday, 12:00 PM - 6:00 PM
         - ICC : Hall A : Cincinnati Arsenal Gaming : HQ
         - Alt: [Tower of the Rising Dawn](https://www.gencon.com/events/279847)
 - Saturday
-    - [Raid on Ravenshold](https://www.gencon.com/events/295669)
-        - Saturday, 11:00 AM - 1:00 PM
-        - [Stadium : Exhibit Hall 1--2 : HQ](https://www.gencon.com/map?c=26&f=0&lg=27.949218750000004&lt=70.34831755984781&s=12386&z=4)
+    - [ILL: School for Gifted Children Orientation](https://www.gencon.com/events/271928)
+        - Saturday, 10:00 AM - 2:00 PM
+        - [Hyatt : Concept C : 1](https://www.gencon.com/map?c=26&f=2&lg=-25.136718750000004&lt=-65.87472467098549&s=11638&z=5)
     - [Napoleon in Bavaria, 1809](https://www.gencon.com/events/272580)
         - Saturday, 2:00 PM - 6:00 PM
-        - Alt: [Oversized Quartermaster General: East Front](https://www.gencon.com/events/292086)
-        - Alt: [Sails of Glory Special Mod](https://www.gencon.com/events/291698)
-        - Alt: [Shoshin: The Path of Ascension](https://www.gencon.com/events/293863)
 - Sunday
     - [Warhammer 40k - KILL IT, KEEP IT (AMBULL Chaos Possessed) Up to 3 Winners](https://www.gencon.com/events/285437)
         - Sunday, 1:00 PM - 3:00 pm 
