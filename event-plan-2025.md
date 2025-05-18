@@ -2,6 +2,30 @@
 
 [View Events](https://www.gencon.com/events?c=indy2025)
 
+## Schedule
+- Thursday
+    - [The Wizarding World of Harry Potter - 5 Years After Voldemort](https://www.gencon.com/events/283697)
+        - Thursday, 12:00 PM - 4:00 PM
+        - ICC : Hall B : No Rails Adventure Team : HQ
+    - [Thar be Cats in Ulthar! A Dreamlands Adventure](https://www.gencon.com/events/287128)
+        - Thursday, 5:00 PM - 9:00 PM 
+        - [Omni: Illinois Ballroom: 1](https://www.gencon.com/map?c=26&f=2&lg=-60.42480468750001&lt=12.357173281576667&s=1290&z=5)
+- Friday
+    - [Prisoner 13](https://www.gencon.com/events/277556)
+        - Friday, 12:00 PM - 6:00 PM
+        - ICC : Hall A : Cincinnati Arsenal Gaming : HQ
+        - Alt: [Tower of the Rising Dawn](https://www.gencon.com/events/279847)
+- Saturday
+    - [ILL: School for Gifted Children Orientation](https://www.gencon.com/events/271928)
+        - Saturday, 10:00 AM - 2:00 PM
+        - [Hyatt : Concept C : 1](https://www.gencon.com/map?c=26&f=2&lg=-25.136718750000004&lt=-65.87472467098549&s=11638&z=5)
+    - [Napoleon in Bavaria, 1809](https://www.gencon.com/events/272580)
+        - Saturday, 2:00 PM - 6:00 PM
+- Sunday
+    - [Warhammer 40k - KILL IT, KEEP IT (AMBULL Chaos Possessed) Up to 3 Winners](https://www.gencon.com/events/285437)
+        - Sunday, 1:00 PM - 3:00 pm 
+        - ICC: Hall B : No Rails Adventure Team: HQ
+
 ## GenCon possible games
 
 - Minatures
@@ -29,27 +53,3 @@
 - [x] Warhammer 40k
 - [x] napoleonic miniature game
 - [x] True dungeon
-
-## Schedule
-- Thursday
-    - [The Wizarding World of Harry Potter - 5 Years After Voldemort](https://www.gencon.com/events/283697)
-        - Thursday, 12:00 PM - 4:00 PM
-        - ICC : Hall B : No Rails Adventure Team : HQ
-    - [Thar be Cats in Ulthar! A Dreamlands Adventure](https://www.gencon.com/events/287128)
-        - Thursday, 5:00 PM - 9:00 PM 
-        - [Omni: Illinois Ballroom: 1](https://www.gencon.com/map?c=26&f=2&lg=-60.42480468750001&lt=12.357173281576667&s=1290&z=5)
-- Friday
-    - [Prisoner 13](https://www.gencon.com/events/277556)
-        - Friday, 12:00 PM - 6:00 PM
-        - ICC : Hall A : Cincinnati Arsenal Gaming : HQ
-        - Alt: [Tower of the Rising Dawn](https://www.gencon.com/events/279847)
-- Saturday
-    - [ILL: School for Gifted Children Orientation](https://www.gencon.com/events/271928)
-        - Saturday, 10:00 AM - 2:00 PM
-        - [Hyatt : Concept C : 1](https://www.gencon.com/map?c=26&f=2&lg=-25.136718750000004&lt=-65.87472467098549&s=11638&z=5)
-    - [Napoleon in Bavaria, 1809](https://www.gencon.com/events/272580)
-        - Saturday, 2:00 PM - 6:00 PM
-- Sunday
-    - [Warhammer 40k - KILL IT, KEEP IT (AMBULL Chaos Possessed) Up to 3 Winners](https://www.gencon.com/events/285437)
-        - Sunday, 1:00 PM - 3:00 pm 
-        - ICC: Hall B : No Rails Adventure Team: HQ
