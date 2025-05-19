@@ -14,7 +14,6 @@
     - [Prisoner 13](https://www.gencon.com/events/277556)
         - Friday, 12:00 PM - 6:00 PM
         - ICC : Hall A : Cincinnati Arsenal Gaming : HQ
-        - Alt: [Tower of the Rising Dawn](https://www.gencon.com/events/279847)
 - Saturday
     - [ILL: School for Gifted Children Orientation](https://www.gencon.com/events/271928)
         - Saturday, 10:00 AM - 2:00 PM
